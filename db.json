@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "films": [
+        {
+          "id": "string",
+          "title": "string",
+          "genre": "string",
+          "price": 30,
+          "imageUrl": "url"
+        }
+      ]
+    },
+    {
+      "snacks": [
+        {
+          "id": "string",
+          "name": "string",
+          "price": 5
+        }
+      ]
+    }
+  ]
+}
